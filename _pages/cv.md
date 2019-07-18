@@ -36,6 +36,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Lead Author Publications
+======
+* Currently signed in to 43 different slack teams
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +58,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
