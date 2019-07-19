@@ -11,34 +11,74 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. (year 1 and 2) in Physics and Chemistry (PCSI - PC), Centre International de Valbonne, 2012 - 2015
+* B.S. (year 3) and M.S. Energy Engineering, Cecole Centrale de Lyon, 2015 - 2019
+  * Master thesis: MAR model evaluation and evaluation of the snow transport module
+* Looking for a PhD in cryospheric sciences (mass balance)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Internships
+  * 2019 - 6 months - Research Internship in climate modeling, IGE
+  * 2017 - 6 months - Business Developper, Ooshot
+  * 2016 - 1 month - Blue colar internship: Packaging worker on an assembly line, Parfum Cosmetic World
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Academic projects
+  * 2019 - Methanation power plant: an opportunity study, Compagnie Nationale du Rhône
+  * 2017 - Valorization of C-C composite used landing brakes parts, Safran Landing Systems
+
+* Field Work
+  * 2018 - Glacier snow cover study using a Ground Penetrating Radar (Tellbreen and Blekumbreen), University Center in Svalbard
+  * 2018 - Sea-ice density measurements for satellite data retrievement and engeneering projects (St. Jonsfjorden), University Center in Svalbard
+  
+* Other experiences
+ * 2019 - Food deliverer, Deliveroo
+ * 2018 - Arctic history and nature guide, Hurtigruten, Longyearbyen
+ * 2016 - Film critics writer (>30 film critics published), Centrale Lyon, France
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Data science: Pandas, Numpy, NetCDF4...
+  * Vizualisation: Matplotlib, Plotly, Seaborn...
+  * GIS: Geopandas, Geoplot, Cartopy, Shapely...
+  
+* Matlab
+  * Machine Learning and AI: regression, classification
+  
+* VBA
+
+* R: basis
+
+* Latex
+
+* Microsoft Word, Excel, PowerPoint
+
+* English
+  * Advanced:TOEFL – score : 640/677
+  * 6+3 months in an English speaking environment
+  
+* Spanish
+  * Basic comprehension
+  
+Hobbies
+======
+* Football (soccer)
+  * Club member for 15 years. 3rd place in the 2016 national CFE championship
+  * Coach, Women’s football, Centrale Lyon (2 teams, 30 players coached)
+  
+* Randonnée Skiing
+
+* Mountaineering
+
+* Water surfing
+
+* Glidering (3 solo flights)
+
 
 Lead Author Publications
 ======
-* Currently signed in to 43 different slack teams
+
 
 Publications
 ======
