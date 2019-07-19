@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. (year 1 and 2) in Physics and Chemistry (PCSI - PC), Centre International de Valbonne, 2012 - 2015
-* B.S. (year 3) and M.S. Energy Engineering, Cecole Centrale de Lyon, 2015 - 2019
+* B.S. (year 3) and M.S. Energy Engineering, Ecole Centrale de Lyon, 2015 - 2019
   * Master thesis: MAR model evaluation and evaluation of the snow transport module
 * Looking for a PhD in cryospheric sciences (mass balance)
 
 Experience
 ======
 * Internships
-  * 2019 - 6 months - Research Internship in climate modeling, IGE
+  * 2019 - 6 months - Research in climate modeling, IGE
   * 2017 - 6 months - Business Developper, Ooshot
   * 2016 - 1 month - Blue colar internship: Packaging worker on an assembly line, Parfum Cosmetic World
 
