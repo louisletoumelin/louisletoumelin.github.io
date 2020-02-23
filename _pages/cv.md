@@ -18,7 +18,7 @@ Education
   * Project: Sea-ice density measurements for satellite data retrievement and engeneering projects (St. Jonsfjorden)
 * B.S. (year 3) and M.S. Energy Engineering, Ecole Centrale de Lyon, 2015 - 2019
   * Project: Valorization of C-C composite used landing brakes parts, Safran Landing Systems, 2017
-  * Project: Methanation power plant: an opportunity study, Compagnie Nationale du Rhône, 2019
+  * Project: Methanation power plant, an opportunity study, Compagnie Nationale du Rhône, 2019
   * Master thesis: MAR model evaluation and evaluation of the snow transport module
 
 Experience
@@ -30,7 +30,12 @@ Experience
   * 2019 - 6 months - Research in climate modelling, IGE
   * 2017 - 6 months - Business Developper, Ooshot
   * 2016 - 1 month - Blue colar internship: Packaging worker on an assembly line, Parfum Cosmetic World
-
+  
+* Other experiences
+ * 2019 - Food deliverer, Deliveroo
+ * 2018 - Arctic history and nature guide, Hurtigruten, Longyearbyen
+ * 2016 - Film critics writer (>30 film critics published), Centrale Lyon, France
+ 
 Fieldwork
 ======
 * 6 months living in Svalbard including 
@@ -40,11 +45,6 @@ Fieldwork
   * One week scientific cruise to the West coast of Svalbard.
   
   
-  
-* Other experiences
- * 2019 - Food deliverer, Deliveroo
- * 2018 - Arctic history and nature guide, Hurtigruten, Longyearbyen
- * 2016 - Film critics writer (>30 film critics published), Centrale Lyon, France
   
 Skills
 ======
