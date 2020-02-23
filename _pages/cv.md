@@ -12,24 +12,34 @@ redirect_from:
 Education
 ======
 * B.S. (year 1 and 2) in Physics and Chemistry (PCSI - PC), Centre International de Valbonne, 2012 - 2015
+  * Project: Trajectory modeling of a solar wind propelled satellite in a geostationary orbit
+* B.S. University center in Svalbard (UNIS) - Spring semester 2018
+  * Project: Glacier snow cover study using a Ground Penetrating Radar (Tellbreen and Blekumbreen)
+  * Project: Sea-ice density measurements for satellite data retrievement and engeneering projects (St. Jonsfjorden)
 * B.S. (year 3) and M.S. Energy Engineering, Ecole Centrale de Lyon, 2015 - 2019
+  * Project: Valorization of C-C composite used landing brakes parts, Safran Landing Systems, 2017
+  * Project: Methanation power plant: an opportunity study, Compagnie Nationale du Rhône, 2019
   * Master thesis: MAR model evaluation and evaluation of the snow transport module
-* Looking for a PhD in cryospheric sciences (mass balance)
 
 Experience
 ======
+* Work
+  * November - December 2018: short term contract in climate modelling, IGE. Studying drifting snow radiative properties.
+  
 * Internships
-  * 2019 - 6 months - Research in climate modeling, IGE
+  * 2019 - 6 months - Research in climate modelling, IGE
   * 2017 - 6 months - Business Developper, Ooshot
   * 2016 - 1 month - Blue colar internship: Packaging worker on an assembly line, Parfum Cosmetic World
 
-* Academic projects
-  * 2019 - Methanation power plant: an opportunity study, Compagnie Nationale du Rhône
-  * 2017 - Valorization of C-C composite used landing brakes parts, Safran Landing Systems
-
-* Field Work
-  * 2018 - Glacier snow cover study using a Ground Penetrating Radar (Tellbreen and Blekumbreen), University Center in Svalbard
-  * 2018 - Sea-ice density measurements for satellite data retrievement and engeneering projects (St. Jonsfjorden), University Center in Svalbard
+Fieldwork
+======
+* 6 months living in Svalbard including 
+* Project: Glacier snow cover study using a Ground Penetrating Radar (Tellbreen and Blekumbreen)
+  * Day trips from Longyearbyen to the glaciers every day for a week.
+* Project: Sea-ice density measurements for satellite data retrievement and engeneering projects (St. Jonsfjorden)
+  * One week scientific cruise to the West coast of Svalbard.
+  
+  
   
 * Other experiences
  * 2019 - Food deliverer, Deliveroo
@@ -47,6 +57,9 @@ Skills
   * Machine Learning and AI: regression, classification
   
 * VBA
+
+* SQL
+  * PostgreSQL
 
 * R: basis
 
